@@ -1,0 +1,13 @@
+GET http://localhost:3000/transactions
+
+###
+GET http://localhost:3000/statistics
+
+###
+GET http://localhost:3000/bar-chart
+
+###
+GET http://localhost:3000/pie-chart
+
+###
+GET http://localhost:3000/combined-data
